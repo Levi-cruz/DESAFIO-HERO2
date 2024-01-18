@@ -24,7 +24,7 @@ Se vitórias for menor do que 10 = Ferro
 ## Saída
 Ao final deve se exibir uma mensagem:
 
-"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}** */
+"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}* */
 
 function getFirstName(name){
     let firstName = name.split(" ")[0]
